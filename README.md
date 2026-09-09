@@ -6,7 +6,7 @@ My research interests span multimodal reasoning, machine unlearning, medical AI,
 
 I spend a lot of time turning ideas from papers into experiments, running benchmarks, and asking one question repeatedly:
 
-**Why does this actually work — and what would make it better?**
+**Why does this actually work - and what would make it better?**
 
 ### Research interests
 - Multimodal LLMs
