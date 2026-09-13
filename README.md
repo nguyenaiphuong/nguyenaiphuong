@@ -10,7 +10,7 @@ Today, my interests span multimodal reasoning, machine unlearning, medical AI, r
 
 One question keeps coming back:
 
-**Why does this actually work — and what would make it better?**
+**Why does this actually work and what would make it better?**
 
 ### Research interests
 - Multimodal LLMs
