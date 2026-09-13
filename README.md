@@ -13,12 +13,11 @@ One question keeps coming back:
 **Why does this actually work and what would make it better?**
 
 ### Research interests
-- Multimodal LLMs
+- Multimodal Reasoning
 - Machine Unlearning
 - Medical AI
 - Reinforcement Learning
 - Test-time Reasoning
-- Representation Learning
 
 ### Currently cooking 🧪
 Right now, I'm working on AI research projects with the **University of Toronto and Vector Institute**, under the supervision of [Zhijing Jin](https://scholar.google.com/citations?user=Mdr6wjUAAAAJ).
