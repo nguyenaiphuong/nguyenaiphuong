@@ -30,7 +30,7 @@ Right now, I'm working on AI research projects with the **University of Toronto 
   I explore whether step-by-step clinical reasoning can help medical image segmentation, and where reasoning starts to break down.
 
 * **Research communication & visual storytelling**
-  I design figures and diagrams, organize results, and turn technical findings into a story that is easier to follow. This is where my data analytics background comes in handy while everyone else is happily speaking in equations, ablations, and loss curves, I try to be the person asking: **“Okay, but what are we actually trying to say here?”**. That said, I’ll keep working to bridge the gap between technical depth and clear, engaging communication. 😚
+  I design figures and diagrams, organize results, and turn technical findings into a story that is easier to follow. This is where my data analytics background comes in handy while everyone else is happily speaking in mathematical algorithms, equations, ablations, loss curves, and model architectures, I try to be the person asking: **“Okay, but what are we actually trying to say here?”**. That said, I’ll keep working to bridge the gap between technical depth and clear, engaging communication. 😚
 
 ### Find me
 [ORCID](https://orcid.org/0009-0002-5236-9662) · [LinkedIn](https://www.linkedin.com/in/ai-phuong-nguyen/) · aiphuong.nguyen1508@gmail.com
