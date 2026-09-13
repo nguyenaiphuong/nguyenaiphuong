@@ -20,7 +20,7 @@ One question keeps coming back:
 - Test-time Reasoning
 
 ### Currently cooking 🧪
-Right now, I'm working on AI research projects with the **University of Toronto and Vector Institute**, under the supervision of [Zhijing Jin](https://scholar.google.com/citations?user=Mdr6wjUAAAAJ).
+Right now, I'm working on AI research projects with the **University of Toronto and Vector Institute**, in [Jinesis Lab](https://www.linkedin.com/company/jinesis-lab/posts/?feedView=all) under the supervision of [Zhijing Jin](https://scholar.google.com/citations?user=Mdr6wjUAAAAJ).
 
 * **Robust Machine Unlearning for Mixture-of-Experts LLMs**
   I study how forgotten knowledge can come back through different expert routes. I also work on ways to measure this behavior and make unlearning more reliable.
